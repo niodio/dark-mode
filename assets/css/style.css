@@ -5,11 +5,15 @@ body {
 	color: #4e545c;
 	margin: 0;
 	font-family: 'Quicksand';
+	transition: 0.5s ease-in;
+
 }
 
 body.dark-mode {
 	background-color: #000401;
 	color: #e5e8e8;
+	transition: 0.5s ease-in;
+
 }
 
 main {
